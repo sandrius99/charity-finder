@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DFRf+06vRPZ+RZ9NWiJJeIy3oZ3P+vxJzgKO6hiQ1v26/e4xY0JXmWZ92gJCblabSmuLTGn9a1kYXs7+qKN0TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dainius\\source\\repos\\Charity\\Charity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dainius\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dainius\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

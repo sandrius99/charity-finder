@@ -1,0 +1,12 @@
+C:\Users\Dainius\source\repos\Charity\bin\Debug\net5.0\Charity.deps.json
+C:\Users\Dainius\source\repos\Charity\bin\Debug\net5.0\Charity.dll
+C:\Users\Dainius\source\repos\Charity\bin\Debug\net5.0\ref\Charity.dll
+C:\Users\Dainius\source\repos\Charity\bin\Debug\net5.0\Charity.pdb
+C:\Users\Dainius\source\repos\Charity\obj\Debug\net5.0\Charity.csproj.AssemblyReference.cache
+C:\Users\Dainius\source\repos\Charity\obj\Debug\net5.0\Charity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dainius\source\repos\Charity\obj\Debug\net5.0\Charity.AssemblyInfoInputs.cache
+C:\Users\Dainius\source\repos\Charity\obj\Debug\net5.0\Charity.AssemblyInfo.cs
+C:\Users\Dainius\source\repos\Charity\obj\Debug\net5.0\Charity.csproj.CoreCompileInputs.cache
+C:\Users\Dainius\source\repos\Charity\obj\Debug\net5.0\Charity.dll
+C:\Users\Dainius\source\repos\Charity\obj\Debug\net5.0\ref\Charity.dll
+C:\Users\Dainius\source\repos\Charity\obj\Debug\net5.0\Charity.pdb
